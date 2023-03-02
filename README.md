@@ -9,8 +9,8 @@
 
 <p align="left">
   <a href="https://github.com/fhrlzmn">
-    <img alt="Programming Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhrlzmn&layout=compact&custom_title=Languages&hide_border=true&hide_progress=true&theme=transparent">
     <img alt="Stats Github" src="https://github-readme-stats.vercel.app/api?username=fhrlzmn&show_icons=true&hide_border=true&theme=transparent&custom_title=Github%20Stats&hide=prs,issues&include_all_commits=true">
+    <img alt="Programming Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhrlzmn&layout=compact&custom_title=Languages&hide_border=true&hide_progress=true&theme=transparent">
   </a>
 </p>
 
