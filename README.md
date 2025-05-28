@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
    <a href="https://fahrulzaman.web.id">
-    <img src="https://img.shields.io/website?url=fahrulzaman.web.id"/>
+    <img src="https://img.shields.io/website?url=https://fahrulzaman.web.id"/>
    </a>
 </p>
 
